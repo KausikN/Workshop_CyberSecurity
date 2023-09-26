@@ -1,6 +1,10 @@
-# Workshop - Cyber Security
+# Workshop
 
 🛠️ Workshop Files and Codes
+
+## Organiser
+
+🏫 [IIITDM, Kancheepuram](https://www.iiitdm.ac.in/)
 
 ## Workshop
 
