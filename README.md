@@ -6,7 +6,7 @@
 
 🏫 [IIITDM, Kancheepuram](https://www.iiitdm.ac.in/)
 
-## Workshop
+## Details
 
 |    Name    |   Year   |       Description       |
 | :--------: | :------: | :---------------------: |
